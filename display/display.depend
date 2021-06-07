@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569241191 source:c:\users\dell\desktop\parking system new\display\main.c
+	<stdio.h>
+	<stdlib.h>
+
